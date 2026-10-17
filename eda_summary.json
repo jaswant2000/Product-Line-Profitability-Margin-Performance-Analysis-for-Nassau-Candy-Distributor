@@ -1,0 +1,15 @@
+{
+  "rows": 10194,
+  "unique_orders": 8549,
+  "unique_products": 15,
+  "divisions": 3,
+  "missing_cells": 0,
+  "duplicate_rows": 0,
+  "valid_profitability_rows": 10194,
+  "total_sales": 141783.63,
+  "total_gross_profit": 93442.79999999999,
+  "total_cost": 48340.83,
+  "weighted_gross_margin_pct": 65.90521063679917,
+  "products_for_80pct_revenue": 5,
+  "products_for_80pct_profit": 5
+}
